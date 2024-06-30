@@ -1,0 +1,47 @@
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+#joke {
+    text-align: center;
+    margin: 20px;
+}
+.rating-button {
+    margin: 5px;
+}
+
+#fetchButton {
+    background-color: rgb(56, 179, 45);
+    border: none;
+    width: 200px;
+    height: 75px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#thumbsUpButton {
+    background-color: rgb(56, 179, 45);
+    border: none;
+    width: 250px;
+    height: 75px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#thumbsDownButton {
+    background-color: rgb(56, 179, 45);
+    border: none;
+    width: 250px;
+    height: 75px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#rating {
+    font-size: 20px;
+}
